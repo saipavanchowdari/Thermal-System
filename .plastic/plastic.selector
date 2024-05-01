@@ -1,0 +1,4 @@
+repository "ARapp@sej7@cloud"
+  path "/"
+    br "/main"
+    co "/main"
