@@ -1,0 +1,4 @@
+Install AR Foundation, Input Manager from untiy.
+Set the build settings required for AR application.
+Add LeanTouch and required assets from unity assert store.
+Download the necessary videos into Videos_n_Images folder and assign it to the videoplayer component of part1, part2, part3 and part4 prefabs.
